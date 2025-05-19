@@ -1,7 +1,7 @@
 streamlit==1.24.1
-opencv-python-headless==4.7.0.72
+opencv-python-headless==4.5.5.64
 cvlib==0.2.6
-numpy==1.24.3
-torch==2.0.1
-torchvision==0.15.2
+numpy==1.21.6
+torch==1.13.1
+torchvision==0.14.1
 Pillow==9.5.0
